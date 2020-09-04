@@ -3,7 +3,6 @@ version = "1.0.0-1"
 source = {
   url = 'git://github.com/s-ol/lua-oscpack',
   tag = 'v1.0.0',
-  dir = 'osc',
 }
 description = {
   summary = "OpenSoundControl for Lua.",
